@@ -20,7 +20,7 @@
 
 	<dependencies>
             <dependency>
-                <groupId>com.fastcube.tibco.Infra.apollo.mod</groupId>
+                <groupId>com.fastcube.tibco.Its.apollo.mod</groupId>
                 <artifactId>bw.mc-mod.application</artifactId>
                 <version>${project.version}</version>
                 <type>ear</type>
